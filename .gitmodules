@@ -1,0 +1,3 @@
+[submodule "calculator-kata"]
+	path = calculator-kata
+	url = https://github.com/sermojohn/calculator-kata.git
